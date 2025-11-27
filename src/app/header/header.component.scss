@@ -1,0 +1,15 @@
+a {
+    color: none;
+    text-decoration: none;
+
+    &:hover {
+        color: none;
+        text-decoration: none;
+    }
+}
+.logo{
+    img {
+        border-radius:50%;
+    }
+
+}
