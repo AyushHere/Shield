@@ -1,27 +1,37 @@
-# ProjectShield
+# **ProjectShield**
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+**ProjectShield** is a website designed for an organization that promotes **child education and welfare** in the northern region.
+The project is currently **under development** and aims to serve as an online platform to showcase initiatives, gather support, and connect with the community.
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🌟 **Planned / Basic Functionalities**
 
-## Build
+* Informational pages about the organization, mission, and vision
+* Programs & initiatives showcase (education, welfare projects, campaigns)
+* Volunteer registration and engagement forms
+* Donation / support section for funding campaigns
+* Event announcements and calendar for community activities
+* Contact and feedback forms
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## 🛠️ **Tech Stack (Planned / Suggested)**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* **Frontend**: Angular / HTML / CSS / SCSS
+* **Backend**: Node.js / .NET / Firebase (depending on requirement)
+* **Database**: MongoDB / SQL
+* **Additional Features**: Email notifications, admin dashboard for managing content
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 💡 **Future Scope**
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+* Fully functional volunteer management system
+* Secure donation gateway integration
+* Admin panel for content and event management
+* Multi-language support for wider reach
+* Analytics dashboard to track engagement and impact
